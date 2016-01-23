@@ -1,5 +1,4 @@
 #Prediction Assignment
 
-Please refer to index.html to have a full view of generated HTML result from PredictionAssignment.Rmd .
-
-Thank you.
+1. index.html contains the generated HTML file for peer review.
+2. index.Rmd is the R code.
